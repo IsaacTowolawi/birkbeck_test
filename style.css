@@ -1,0 +1,20 @@
+body {
+  background-color: blueviolet;
+}
+
+h1 {
+  font-size: 4rem;
+  color: chartreuse;
+  text-align: center;
+  transition: 1s;
+}
+
+h1:hover {
+  color: darkblue;
+  cursor: pointer;
+}
+
+p {
+  font-size: 2rem;
+  color: green;
+}
